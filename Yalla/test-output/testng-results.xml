@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="24191" started-at="2019-01-10T20:01:15Z" finished-at="2019-01-10T20:01:39Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="24191" started-at="2019-01-10T20:01:15Z" finished-at="2019-01-10T20:01:39Z">
+      <class name="projectDay.Facebook">
+        <test-method status="PASS" signature="startReport()[pri:0, instance:projectDay.Facebook@18eed359]" name="startReport" is-config="true" duration-ms="563" started-at="2019-01-10T20:01:14Z" finished-at="2019-01-10T20:01:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startReport -->
+        <test-method status="PASS" signature="beforeSuite()[pri:0, instance:projectDay.Facebook@18eed359]" name="beforeSuite" is-config="true" duration-ms="0" started-at="2019-01-10T20:01:15Z" depends-on-methods="reports.Reports.startReport" finished-at="2019-01-10T20:01:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeSuite -->
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:projectDay.Facebook@18eed359]" name="beforeTest" is-config="true" duration-ms="1" started-at="2019-01-10T20:01:15Z" finished-at="2019-01-10T20:01:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="setData()[pri:0, instance:projectDay.Facebook@18eed359]" name="setData" is-config="true" duration-ms="0" started-at="2019-01-10T20:01:15Z" finished-at="2019-01-10T20:01:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setData -->
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:projectDay.Facebook@18eed359]" name="beforeClass" is-config="true" duration-ms="0" started-at="2019-01-10T20:01:15Z" finished-at="2019-01-10T20:01:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="report()[pri:0, instance:projectDay.Facebook@18eed359]" name="report" is-config="true" duration-ms="9" started-at="2019-01-10T20:01:15Z" finished-at="2019-01-10T20:01:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- report -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:projectDay.Facebook@18eed359]" name="beforeMethod" is-config="true" duration-ms="15871" started-at="2019-01-10T20:01:15Z" finished-at="2019-01-10T20:01:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="search()[pri:0, instance:projectDay.Facebook@18eed359]" name="search" duration-ms="8284" started-at="2019-01-10T20:01:30Z" finished-at="2019-01-10T20:01:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- search -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:projectDay.Facebook@18eed359]" name="afterClass" is-config="true" duration-ms="1" started-at="2019-01-10T20:01:39Z" finished-at="2019-01-10T20:01:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:projectDay.Facebook@18eed359]" name="afterMethod" is-config="true" duration-ms="0" started-at="2019-01-10T20:01:39Z" finished-at="2019-01-10T20:01:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:projectDay.Facebook@18eed359]" name="afterTest" is-config="true" duration-ms="1" started-at="2019-01-10T20:01:39Z" finished-at="2019-01-10T20:01:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+        <test-method status="PASS" signature="stopReports()[pri:0, instance:projectDay.Facebook@18eed359]" name="stopReports" is-config="true" duration-ms="706" started-at="2019-01-10T20:01:39Z" depends-on-methods="testcases.Annotations.afterSuite" finished-at="2019-01-10T20:01:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- stopReports -->
+        <test-method status="PASS" signature="afterSuite()[pri:0, instance:projectDay.Facebook@18eed359]" name="afterSuite" is-config="true" duration-ms="0" started-at="2019-01-10T20:01:39Z" finished-at="2019-01-10T20:01:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterSuite -->
+      </class> <!-- projectDay.Facebook -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
